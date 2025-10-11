@@ -148,14 +148,12 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+**Insert image here**
+
 ![WhatsApp Image 2025-10-11 at 20 26 28_ed2df5f2](https://github.com/user-attachments/assets/8b10c9c1-0456-45d5-86a2-a5c6bd300eeb)
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## MobileRobot Movement Video:
 
